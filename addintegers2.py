@@ -1,0 +1,5 @@
+x = input('Enter the value of inegers:')
+y = input('Enter the other value of integer:')
+num1 = int(x)
+num2 = int(y)
+print(num1, '+', num2, '=', num1 + num2)
